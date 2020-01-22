@@ -1,0 +1,14 @@
+
+
+                                                                             
+                          #                mmmmm  mmmmm    "    mm   m   mmm 
+  mmm    mmm    mmm    mmm#          mmm   #   "# #   "# mmm    #"m  # m"   "
+ #   "  #"  #  #"  #  #" "#         #   "  #mmm#" #mmmm"   #    # #m # #   mm
+  """m  #""""  #""""  #   #          """m  #      #   "m   #    #  # # #    #
+ "mmm"  "#mm"  "#mm"  "#m##         "mmm"  #      #    " mm#mm  #   ##  "mmm"
+                                                                             
+
+
+Welcome! The game is easy: you jump on a sPRiNG.
+How high will you fly?
+
