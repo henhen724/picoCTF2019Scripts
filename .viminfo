@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :exit
-|2,0,1579684726,,"exit"
+|2,0,1579685326,,"exit"
 :q
 |2,0,1579679918,,"q"
 :set number
@@ -71,16 +71,16 @@
 |3,1,36,0,1,0,1579676386,"'"
 
 # File marks:
-'0  23  81  ~/heap1/heap.py
-|4,48,23,81,1579684726,"~/heap1/heap.py"
-'1  23  48  ~/heap1/heap.py
-|4,49,23,48,1579684682,"~/heap1/heap.py"
-'2  23  71  ~/heap1/heap.py
-|4,50,23,71,1579684634,"~/heap1/heap.py"
+'0  2  5  ~/.gitignore
+|4,48,2,5,1579685326,"~/.gitignore"
+'1  23  81  ~/heap1/heap.py
+|4,49,23,81,1579684726,"~/heap1/heap.py"
+'2  23  48  ~/heap1/heap.py
+|4,50,23,48,1579684682,"~/heap1/heap.py"
 '3  23  71  ~/heap1/heap.py
 |4,51,23,71,1579684634,"~/heap1/heap.py"
-'4  16  15  ~/heap1/heap.py
-|4,52,16,15,1579681353,"~/heap1/heap.py"
+'4  23  71  ~/heap1/heap.py
+|4,52,23,71,1579684634,"~/heap1/heap.py"
 '5  16  15  ~/heap1/heap.py
 |4,53,16,15,1579681353,"~/heap1/heap.py"
 '6  16  15  ~/heap1/heap.py
@@ -93,10 +93,20 @@
 |4,57,16,15,1579681353,"~/heap1/heap.py"
 
 # Jumplist (newest first):
+-'  2  5  ~/.gitignore
+|4,39,2,5,1579685326,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1579685311,"~/.gitignore"
+-'  23  81  ~/heap1/heap.py
+|4,39,23,81,1579684726,"~/heap1/heap.py"
 -'  23  81  ~/heap1/heap.py
 |4,39,23,81,1579684726,"~/heap1/heap.py"
 -'  23  48  ~/heap1/heap.py
 |4,39,23,48,1579684682,"~/heap1/heap.py"
+-'  23  48  ~/heap1/heap.py
+|4,39,23,48,1579684682,"~/heap1/heap.py"
+-'  23  71  ~/heap1/heap.py
+|4,39,23,71,1579684634,"~/heap1/heap.py"
 -'  23  71  ~/heap1/heap.py
 |4,39,23,71,1579684634,"~/heap1/heap.py"
 -'  16  15  ~/heap1/heap.py
@@ -105,6 +115,14 @@
 |4,39,16,15,1579684538,"~/heap1/heap.py"
 -'  16  15  ~/heap1/heap.py
 |4,39,16,15,1579684538,"~/heap1/heap.py"
+-'  16  15  ~/heap1/heap.py
+|4,39,16,15,1579684538,"~/heap1/heap.py"
+-'  16  15  ~/heap1/heap.py
+|4,39,16,15,1579684538,"~/heap1/heap.py"
+-'  16  15  ~/heap1/heap.py
+|4,39,16,15,1579684538,"~/heap1/heap.py"
+-'  16  15  ~/heap1/heap.py
+|4,39,16,15,1579681353,"~/heap1/heap.py"
 -'  16  15  ~/heap1/heap.py
 |4,39,16,15,1579681353,"~/heap1/heap.py"
 -'  13  164  ~/heap1/heap.py
@@ -115,6 +133,16 @@
 |4,39,13,164,1579681330,"~/heap1/heap.py"
 -'  13  164  ~/heap1/heap.py
 |4,39,13,164,1579681330,"~/heap1/heap.py"
+-'  13  164  ~/heap1/heap.py
+|4,39,13,164,1579681330,"~/heap1/heap.py"
+-'  13  164  ~/heap1/heap.py
+|4,39,13,164,1579681330,"~/heap1/heap.py"
+-'  13  164  ~/heap1/heap.py
+|4,39,13,164,1579681330,"~/heap1/heap.py"
+-'  13  164  ~/heap1/heap.py
+|4,39,13,164,1579681330,"~/heap1/heap.py"
+-'  13  164  ~/heap1/heap.py
+|4,39,13,164,1579681227,"~/heap1/heap.py"
 -'  13  164  ~/heap1/heap.py
 |4,39,13,164,1579681227,"~/heap1/heap.py"
 -'  19  3  ~/heap1/heap.py
@@ -128,7 +156,21 @@
 -'  19  3  ~/heap1/heap.py
 |4,39,19,3,1579681163,"~/heap1/heap.py"
 -'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681163,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681163,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681163,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681163,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681163,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
 |4,39,19,3,1579681154,"~/heap1/heap.py"
+-'  19  3  ~/heap1/heap.py
+|4,39,19,3,1579681154,"~/heap1/heap.py"
+-'  19  18  ~/heap1/heap.py
+|4,39,19,18,1579680817,"~/heap1/heap.py"
 -'  19  18  ~/heap1/heap.py
 |4,39,19,18,1579680817,"~/heap1/heap.py"
 -'  20  9  ~/heap1/heap.py
@@ -143,6 +185,20 @@
 |4,39,20,9,1579680721,"~/heap1/heap.py"
 -'  20  9  ~/heap1/heap.py
 |4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  20  9  ~/heap1/heap.py
+|4,39,20,9,1579680721,"~/heap1/heap.py"
+-'  19  4  ~/heap1/heap.py
+|4,39,19,4,1579680691,"~/heap1/heap.py"
 -'  19  4  ~/heap1/heap.py
 |4,39,19,4,1579680691,"~/heap1/heap.py"
 -'  13  136  ~/heap1/heap.py
@@ -151,6 +207,14 @@
 |4,39,13,136,1579680602,"~/heap1/heap.py"
 -'  13  136  ~/heap1/heap.py
 |4,39,13,136,1579680602,"~/heap1/heap.py"
+-'  13  136  ~/heap1/heap.py
+|4,39,13,136,1579680602,"~/heap1/heap.py"
+-'  13  136  ~/heap1/heap.py
+|4,39,13,136,1579680602,"~/heap1/heap.py"
+-'  13  136  ~/heap1/heap.py
+|4,39,13,136,1579680602,"~/heap1/heap.py"
+-'  13  136  ~/heap1/heap.py
+|4,39,13,136,1579680588,"~/heap1/heap.py"
 -'  13  136  ~/heap1/heap.py
 |4,39,13,136,1579680588,"~/heap1/heap.py"
 -'  32  20  ~/heap1/heap.py
@@ -219,82 +283,25 @@
 |4,39,34,20,1579680550,"~/heap1/heap.py"
 -'  32  20  ~/heap1/heap.py
 |4,39,32,20,1579680550,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  34  10  ~/heap1/heap.py
-|4,39,34,10,1579680505,"~/heap1/heap.py"
--'  34  10  ~/heap1/heap.py
-|4,39,34,10,1579680505,"~/heap1/heap.py"
--'  32  10  ~/heap1/heap.py
-|4,39,32,10,1579680505,"~/heap1/heap.py"
--'  35  10  ~/heap1/heap.py
-|4,39,35,10,1579680505,"~/heap1/heap.py"
--'  33  10  ~/heap1/heap.py
-|4,39,33,10,1579680505,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  35  7  ~/heap1/heap.py
-|4,39,35,7,1579680499,"~/heap1/heap.py"
--'  35  7  ~/heap1/heap.py
-|4,39,35,7,1579680499,"~/heap1/heap.py"
--'  36  7  ~/heap1/heap.py
-|4,39,36,7,1579680499,"~/heap1/heap.py"
--'  34  7  ~/heap1/heap.py
-|4,39,34,7,1579680499,"~/heap1/heap.py"
--'  34  7  ~/heap1/heap.py
-|4,39,34,7,1579680488,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680477,"~/heap1/heap.py"
--'  8  39  ~/heap1/heap.py
-|4,39,8,39,1579680270,"~/heap1/heap.py"
--'  22  19  ~/heap1/heap.py
-|4,39,22,19,1579680260,"~/heap1/heap.py"
--'  21  19  ~/heap1/heap.py
-|4,39,21,19,1579680260,"~/heap1/heap.py"
--'  24  19  ~/heap1/heap.py
-|4,39,24,19,1579680260,"~/heap1/heap.py"
--'  22  19  ~/heap1/heap.py
-|4,39,22,19,1579680260,"~/heap1/heap.py"
--'  21  19  ~/heap1/heap.py
-|4,39,21,19,1579680260,"~/heap1/heap.py"
+-'  32  20  ~/heap1/heap.py
+|4,39,32,20,1579680550,"~/heap1/heap.py"
+-'  30  20  ~/heap1/heap.py
+|4,39,30,20,1579680550,"~/heap1/heap.py"
+-'  33  20  ~/heap1/heap.py
+|4,39,33,20,1579680550,"~/heap1/heap.py"
+-'  31  20  ~/heap1/heap.py
+|4,39,31,20,1579680550,"~/heap1/heap.py"
+-'  34  20  ~/heap1/heap.py
+|4,39,34,20,1579680550,"~/heap1/heap.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1579685325	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
 
 > ~/heap1/heap.py
 	*	1579684719	0

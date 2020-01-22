@@ -1499,3 +1499,7 @@ git rm .*
 git rm .p*
 git rm -r .p*
 git commit -m "First 18 done"
+git add -A
+git commit -m "First 18 done"
+ls -la
+vim .gitignore
