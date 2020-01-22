@@ -1488,3 +1488,14 @@ git config user.name "Henry Hunt"
 git commit -m "first commit"
 ls
 git push -u origin master
+git add -A
+ls
+git add **
+ls
+git commit -m "First 18 done"
+touch .gitignore
+git delete .*
+git rm .*
+git rm .p*
+git rm -r .p*
+git commit -m "First 18 done"
