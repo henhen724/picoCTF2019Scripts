@@ -1503,3 +1503,204 @@ git add -A
 git commit -m "First 18 done"
 ls -la
 vim .gitignore
+git add -A
+git commit -m "First 18 done"
+git push
+git rm .bash_logout 
+git rm .bash_rc
+git rm .bashrc
+ls
+ls -la
+touch .bash_logout
+vim .bash_logout 
+clear
+ls
+mkdir limit1
+cp GoT1/flag.txt limit1/flag.txt 
+cp heap1/flag.txt limit1/flag.txt 
+cp heap1/heap.py limit1/limit.py
+ls
+cd limit1/
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+ls
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+./limit.p
+./limit.py
+python limit.py
+vim limit.py 
+python limit.py
+vim limit.py 
+python limit.py
+vim limit.py 
+python limit.py
+vim limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+python limit.py 
+vim limit.py 
+python limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln < echo -en "134514118\n-1038924338"
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln < /bin/echo -en "134514118\n-1038924338"
+clear
+ls
+vim limit.py 
+gdb 
+vim limit.py 
+gdb 
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+vim limit.py 
+exit
+tmux
+tmux wsplit -v
+tmux splitw -v
+tmux splitw
+ls
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+tmux
+ps -aux
+ps -C /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4 -o pid h
+ps -C /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4
+gdb -p 937051
+clear
+exit
+/problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+exit
+gdb /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/vuln
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+vim limit.py 
+python limit.py 
+cd /problems/l1im1tl355_0_48bfaa4453e6105b5b7cee06e1f53ff4/
+ls
+python ~/limit1/limit.py 
+vim ~/limit1/limit.py 
+python ~/limit1/limit.py 
+cd ../secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b
+ls
+cd ~
+ls
+mkdir heap2
+cp heap1/heap.py heap2/heap.py
+cd heap1/flag.txt heap2/flag.txt
+cp heap1/flag.txt heap2/flag.txt
+cd heap2
+ls
+vim heap.py 
+python heap.py 
+vim heap.py 
+python heap.py 
+vim heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+disas main
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py 
+python heap.py 
+vim heap.py 
+python heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py gdb
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py 
+python heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+/problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py 
+python heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+python -c "from pwn import *; print(hex(asm('nop; '*7+'mov eax, 0x41414141; push 0x08048966; ret')))"
+python -c "from pwn import *; print(unhex(asm('nop; '*7+'mov eax, 0x41414141; push 0x08048966; ret')))"
+python -c "from pwn import *; print(asm('nop; '*7+'mov eax, 0x41414141; push 0x08048966; ret'))"
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py 
+python -c "from pwn import *; print(bytearray(asm('nop; '*7+'push 0x41414141; push 0x08048966; ret')))"
+vim heap.py 
+python -c "from pwn import *; print(bytearray(asm('nop; '*7+'push 0x41414141; push 0x08048966; ret')))"
+python heap.py 
+cd /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/
+python ~/heap2/heap.py 
+cd ~
+git add -A
+git push
+git pull
+vim .gitignore
+git pull
+git add -A
+git pull
+git stash
+git pull
+git pull -f
+git push --force
+clear
+ls
+cat README.md 
+cd heap2
+vim .viminfo 
+git pull
+git push
+clear
+mkdir rop32
+cd rop32/
+cd ..
+mkdir heap2
+cd heap
+cd heap2
+cp ../heap1/heap.py heap.py
+cp ../heap1/flag.txt flag.txt
+ls
+vim heap.py 
+/problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+vim heap.py 
+gdb /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b/vuln
+vim heap.py 
+python heap.py 
+cd /problems/secondlife_3_d2e0c7e84bcd27965cec7710051e6a0b
+ls
+python ~/heap2/heap.py 
+cd ~
